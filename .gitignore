@@ -1,0 +1,18 @@
+# 开发工具自动生成的文件
+.metadata
+.class
+.classpath
+.project
+.settings
+.factorypath
+.idea
+
+# 编译后相关文件
+**/target
+resource
+
+# 日志文件
+**/logs
+
+# 其他
+.svn
